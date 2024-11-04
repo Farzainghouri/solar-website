@@ -28,7 +28,7 @@ function Footer() {
     </div>
         <hr />
         <div className="flex justify-center items-center w-full pb-6">
-        <p className="text-white mt-4">© 2024 Solar Saver. All rights reserved.</p>
+        <p className="text-white mt-4">Copyright© 2024 Solar Saver. All rights reserved.</p>
         </div>
         </div>
     </div>
